@@ -2,5 +2,11 @@
     <string name="app_name">GeoQuiz</string>
     <string name="trueOption">Verdadero</string>
     <string name="falseOption">Falso</string>
-    <string name="question1">¿Madrid es la capital de España?</string>
+    <string name="sigOption">Siguiente</string>
+
+    <string name="question_spain">¿Madrid es la capital de España?</string>
+    <string name="question_france">¿En Francia odian a Rafa Nadal?</string>
+    <string name="question_uk">¿A los ingleses no les gusta beber alcohol?</string>
+    <string name="question_ada">¿El wifi de ada es buena?</string>
+    <string name="question_tenis">¿Sharapova esta enamorada de Fran?</string>
 </resources>

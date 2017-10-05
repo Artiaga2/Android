@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Quiz</string>
+    <string name="Question1">Is Madrid the capital of Spain?</string>
+    <string name="trueOption">TRUE</string>
+    <string name="falseOption">FALSE</string>
+    <string name="correct">Correct!</string>
+    <string name="incorrect">Incorrect!</string>
+</resources>
